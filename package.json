@@ -1,7 +1,7 @@
 {
   "name": "oferzelig",
   "version": "1.0.0",
-  "description": "Personal npm card for Ofer Zelig (@@oferzelig)",
+  "description": "Personal npm card for Ofer Zelig (@oferzelig)",
   "main": "index.html",
   "repository": {
     "type": "git",
@@ -46,10 +46,10 @@
     "info": {
       "name": "Ofer Zelig",
       "handle": "@oferzelig",
-      "twitter": "@oferzelig",
-      "npm": "@oferzelig",
-      "github": "@oferze",
-      "linkedin": "@oferzelig",
+      "twitter": "oferzelig",
+      "npm": "oferzelig",
+      "github": "oferze",
+      "linkedin": "oferzelig",
       "web": "https://fullstack.info",
       "work": "Full Stack Architect and Software/Web Developer"
     },
